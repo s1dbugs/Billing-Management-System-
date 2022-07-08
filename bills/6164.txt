@@ -1,0 +1,17 @@
+	welcome webcode Retail
+
+ Bill Number : 6164
+ Customer Name : mathor
+ Phone Number : 23468
+======================================
+ products		QTY		price
+======================================
+ Bath Soap		1		40
+ Food Oil		1		120
+ cock		1		60
+--------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 12.0
+ Cold Drink Tax			Rs. 3.0
+ Total Bill			Rs. 237.0
+--------------------------------------

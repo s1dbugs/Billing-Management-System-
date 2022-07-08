@@ -1,0 +1,31 @@
+	welcome webcode Retail
+
+ Bill Number : 9570
+ Customer Name : Narendra Modi
+ Phone Number : 7682965488
+======================================
+ products		QTY		price
+======================================
+ Bath Soap		2		80
+ Face_Cream		1		120
+ Face Wash		1		60
+ Hair Spray		1		180
+ Hair Gel		2		140
+ Body Lotion		2		360
+ Rice		25		1000
+ Food Oil		1		120
+ Dall		2		120
+ Wheat		25		4500
+ Sugar		1		140
+ Maza		1		60
+ cock		1		60
+ Frooti		2		100
+ Limca		1		45
+ Thumbs Up		1		40
+ Sprite		1		60
+--------------------------------------
+ Cosmetic Tax			Rs. 47.0
+ Grocery Tax			Rs. 588.0
+ Cold Drink Tax			Rs. 18.25
+ Total Bill			Rs. 7838.25
+--------------------------------------
